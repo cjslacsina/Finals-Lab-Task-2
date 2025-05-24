@@ -32,23 +32,23 @@ This portfolio demonstrates my understanding of MySQL database creation through 
 # Screenshots
 # Query Statements:
 ## 1. Student Table:
- ![Image]()
+![Image](https://github.com/user-attachments/assets/3f808d5c-466b-43bf-8440-0c057c3c8b52)
 
 ## 2. Assignment Table:
-![Image]()
+![Image](https://github.com/user-attachments/assets/a9dc4ada-69af-4ce2-8881-b1eb2ae8bbae)
 
 ## 3. Submission Table:
-![Image]()
+![Image](https://github.com/user-attachments/assets/d7971eb1-a672-45ea-8cc7-c407f0bdec42)
 
 # Table Structure
 ## 1. Student Table:
-![Image]()
+![Image](https://github.com/user-attachments/assets/1020c53a-2cd9-4f57-b292-42f7f626787f)
 
 ## 2. Assignment Table:
-![Image]()
+![Image](https://github.com/user-attachments/assets/f64eb08d-4db0-4b7c-bd01-37d64ad7fc0c)
 
 ## 3. Submission Table:
-![Image]()
+![Image](https://github.com/user-attachments/assets/7f93764e-0dda-4cf3-a3c4-98f9f1fbc4c1)
 
 # Entity-Relationship Diagram (EER)
-![Image]()
+![Image](https://github.com/user-attachments/assets/069d6c67-5e06-4b82-80d8-3e3780cafa57)
